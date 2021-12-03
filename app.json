@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Ultimate Dictionary",
+    "slug": "snack-47770793-ccda-4559-ad27-573b56704572",
+    "version": "7.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.vihanseth.firstdicappapple"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.firstdictapp",
+      "versionCode": 7,
+      "config": {
+        
+        "googleMobileAdsAppId": "ca-app-pub-7017174341287348~4992837305"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "This is an online dictionary app in which people can search any word and they will get the meaning of the word."
+  }
+}
